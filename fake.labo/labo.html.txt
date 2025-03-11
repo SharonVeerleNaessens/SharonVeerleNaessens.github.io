@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <title>Fake Labo</title>
+</head>
+<body>
+    <h2>Welkom in het fake labo</h2>
+    <p>Dit is een testpagina voor het labo.</p>
+</body>
+</html>
